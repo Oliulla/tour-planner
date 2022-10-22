@@ -16,7 +16,7 @@ const Home = () => {
   }
 
   return (
-    <div id="bgImg">
+    <div className="bgImg">
       <Header />
       <Container>
         <Row>
